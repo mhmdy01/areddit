@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = D:/myfiles/web-apps/areddit/server
+	url = https://github.com/mhmdy01/areddit-server
 [submodule "client"]
 	path = client
-	url = D:/myfiles/web-apps/areddit/client
+	url = https://github.com/mhmdy01/areddit-client
