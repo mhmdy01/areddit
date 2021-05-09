@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = D:/myfiles/web-apps/areddit/server
+[submodule "client"]
+	path = client
+	url = D:/myfiles/web-apps/areddit/client
